@@ -1,0 +1,25 @@
+# third-party toolchain: clone https://github.com/aoineko-fr/MSXgl next to msx/ (see README)
+/MSXgl/
+
+# original freeware release: only the GPL source release is kept
+/freeware/*
+!/freeware/source/
+!/freeware/readme.txt
+
+# build output and local test material
+**/out/
+msx/emul/
+msx/*/emul/
+msx/host/*.exe
+*.SAV
+*.sav
+*.com
+*.OVL
+*.noi
+*.rel
+*.lst
+*.sym
+*.map
+*.ihx
+*.lk
+msx/sizetest/*.asm

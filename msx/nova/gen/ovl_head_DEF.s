@@ -1,0 +1,27 @@
+; generated - jump table of overlay DEF
+	.module ovl_head_DEF
+	.globl	_Call13
+	.globl	_DEAD
+	.globl	_Default10
+	.globl	_Default11
+	.globl	_Default12
+	.globl	_Default13
+	.globl	_Default14
+	.globl	_Default5
+	.globl	_Default6
+	.globl	_Default7
+	.globl	_Default8
+	.globl	_Default9
+	.area	_CODE
+	jp	_Call13
+	jp	_DEAD
+	jp	_Default10
+	jp	_Default11
+	jp	_Default12
+	jp	_Default13
+	jp	_Default14
+	jp	_Default5
+	jp	_Default6
+	jp	_Default7
+	jp	_Default8
+	jp	_Default9

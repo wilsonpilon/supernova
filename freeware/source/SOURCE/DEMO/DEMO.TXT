@@ -1,0 +1,484 @@
+* THIS IS A DEMO OF SUPERNOVA.
+* THESE COMMENTS WILL BE EMBEDDED THROUGHOUT THE DEMO TO EXPLAIN SITUATIONS.
+* IF YOU WANT MORE TIME TO READ SOMETHING HOLD DOWN ANY KEY.
+* IF YOU WANT TO EXIT THE DEMO HIT BREAK  (CONTROL-C).
+* THIS DEMO DOES NOT SHOW TOO MANY USES OF ADVERBS, THAT WOULD REQUIRE A    SEPARATE DEMO TO SHOW ALL THE POSSIBILITIES.
+* LET THE DEMO BEGIN.....
+Look
+Read the menu
+Inventory
+Examine goolaa
+Purchase Glunk Lite
+Drink the drink
+Bartender, I'll take a bloody foeboz, too.
+Waiter, can you tell me about the aliens?
+Sit at the middle table
+Listen to the aliens
+Listen closely
+Wait
+Repeat
+Repeat
+Stand up
+Go East
+East
+Unlock the door with the rusty key
+Enter
+Examine the shelf
+Get holster
+Wear it then open the door. Leave.
+Leave
+Exit
+Go out
+Read sign
+East
+Enter building
+Examine the drazil tracks
+Look underneath the shelves
+* NOTE:  "drazil" IS "lizard" SPELLED BACKWARD
+Grab satchel
+Look inside it
+Out
+Southeast
+West
+South
+West
+Read the Sign
+Climb up the ladder
+Open hatch
+Turn wheel
+Open hatch
+Down
+Shut hatch
+Rotate the wheel with force
+Aft
+Examine
+The panel
+Fore
+Open door
+Walk Fore slowly!
+Examine control panel
+Press tan button
+Sit down at the command chair
+Look
+Get the cushion then put it on the seat
+Sit
+Type Your Name
+* IF THE CORRECT NAME WERE NOT TYPED IN AFTER TWO TRIES, A DROID WOULD HAVE
+* APPEARED AND EXTERMINATED THE APPARENT INTRUDER!!
+* THE DROID IS INSIDE THE JAMMED PANEL IN THE SHIP'S LAB.
+Type in the coordinates R2/20-8-23 D2/VEGA
+Press the cyan button
+Press the tan button
+Stand
+Aft
+Aft
+* WHEN THE BORDER COLOR TURNS RED (OR GREY IN B/W MODE) IT MEANS THAT YOU
+* HAVE REACHED A CRITICAL STAGE IN HUNGER, THIRST, SLEEP, SICKNESS, ETC.
+Starboard
+Get into the cryogenic tube
+Stand
+Port
+Fore
+Fore
+Sit
+* AT THIS POINT THE PLAYER MUST FIND A PLACE TO LAND ON THE JUNGLE PLANET.
+Look through the monitor
+Repeat
+Repeat
+Repeat
+Repeat
+Repeat
+Repeat
+Repeat
+Press the purple button
+Repeat
+Wait
+Z
+Z
+Z
+Look in screen
+Press purple
+Stand
+Get worn cushion
+Exit
+Port
+Ex machines
+* EX IS SHORT FOR EXAMINE
+Read chart
+Put mug in niche
+Type 6
+Get all
+Out
+Aft
+Starboard
+Fore
+Turn on faucet
+Drink water
+Aft
+Port
+Fore
+Turn wheel
+Open hatch
+Out
+East
+North
+Examine stream
+Touch it
+Jump over it!
+East
+Northwest
+Examine hollow
+NW
+Walk northwest
+Grab the vine!!!
+Climb tree
+Down
+* NOTICE ON THE NEXT MOVE A CREATURE WILL STING THE PLAYER.  THIS WILL      EVENTUALLY CAUSE A SEVERE SICKNESS!
+Northeast
+North
+Northwest
+Examine pyramid
+Examine dog
+Study writing
+Open hinged mouth
+Get red jewel
+Put it inside the slot
+Enter pyramid
+Go
+Down
+Down
+East
+Examine Remains
+Get skull
+Get all
+West
+North
+West
+Look at pyramid
+Feel pyramid
+North
+Get dusty ball
+Clean it
+South
+East
+South
+Down
+* THIS MAZE LOOKS EASY WHEN YOU WATCH THE DEMO DO IT, BUT IT IS ANYTHING BUTEASY.
+* IN FACT, IT MAY BE THE MOST DIFFICULT MAZE IN ANY ADVENTURE GAME.
+* NOTICE THAT MOVING, LET'S SAY NORTH, MAY LEAD TO A WALL THE FIRST TIME,
+* BUT TRAVELING NORTH THE NEXT MOVE MAY REVEAL AN OPEN PATH.
+* THIS MAZE SWITCHES BETWEEN TWO CONFIGURATIONS EACH TURN.
+NW
+NW
+S
+SE
+E
+NE
+W
+SE
+D
+N
+W
+S
+S
+E
+* THIS NEXT PUZZLE IS LOADED WITH COMPLICATIONS...
+Examine pyramid
+Examine keyhole
+Examine ceiling
+* IF YOU JUMP FOR THE CRYSTAL YOU BREAK THROUGH THE FRAGILE GLASS FLOOR!
+* IF YOU THROW SOMETHING AT THE CRYSTAL IT DOESN'T KNOCK IT DOWN,
+* AND IF THE THROWN OBJECT IS TOO BIG IT WILL BREAK THE FLOOR!
+* CLIMBING ON THE PYRAMID ADDS TOO MUCH WEIGHT AND BREAKS THE FLOOR!
+* IF YOU BRING THE ROD INTO THE ROOM IT IS TOO HEAVY...CRASH!
+throw glass ball at wall
+Look
+Get Shiney key
+Ex it
+Put the cushion under the crystal
+Insert the shiney key into the keyhole
+* IF THE SEAT CUSHION WASN'T THERE THE CRYSTAL WOULD HAVE BROKEN THE FLOOR.
+* IF YOU DON'T GET THE CRYSTAL IT WILL CRASH THROUGH THE GLASS FLOOR!
+* IF YOU TRY TO LEAVE THE ROOM YOU WON'T MAKE IT IN TIME.
+* YOU'LL GET A FUNNY MESSAGE IF YOU TYPE "LOOK" WHILE THE CRYSTAL IS FLYING.
+Catch the crystal!!!
+Examine it
+South
+Examine wall
+Examine planets
+* IF YOU WERE TO PRESS THE STAR YOU WOULD FALL INTO A SECRET PIT!
+Out
+* NOTICE THAT THE ROOM NAME "The Erusaert" IS "Treasure" SPELLED BACKWARD!
+West
+Remove holster
+Drop all but the crystal, the satchel, the mug and the disk
+Pick up the rod
+Crawl North
+Wait
+Jump across the gap
+Place the rod under the ceiling
+Look
+South
+Up
+NW
+E
+E
+SE
+W
+NW
+N
+SE
+U
+U
+U
+Out
+Eat food
+SE
+* NOTICE THE SICKNESS HAS NOW BECOME APPARENT...
+* IF THE PLAYER DOESN'T DRINK THE CORRECT SERUM SOON SHE WILL BEGIN TO GET  DIZZY SPELLS, FALL DOWN AND DROP OBJECTS.
+* TO AVOID ALL OF THAT GO AHEAD AND DRINK THE SERUM
+Drink serum
+S
+* NOW THAT YOU HAVE THE CRYSTAL YOU WILL FIND A NEW PATH ON THE NEXT MOVE!
+SW
+Look
+* BUT BEFORE YOU CAN GO DOWN THAT PATH YOU MUST GO BACK TO THE SHIP TO GET  SOME SLEEP AND SOME MORE WATER
+SE
+SE
+Jump over acid stream
+South
+W
+Down
+Aft
+Starboard
+Fore
+Drink water
+Fill the mug
+Aft
+* THE PLAYER IS TOO CLOSE TO GETTING TIRED TO GO EXPLORE THE NEW PATH NOW   THIS DEMO WILL DO ABOUT 35 WAIT's NOW...
+Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z
+Z
+Z
+Z
+Z
+Sleep
+stand
+* BETTER DRINK SOME MORE WATER NOW AND PUT SOME IN MUG AGAIN!
+Drink. Fore. Put water into mug. Aft
+Port
+Fore
+Up
+East
+North
+Leap stream
+Northwest
+NW
+Look
+* NOW IT'S TIME TO EXPLORE THE NEWLY DISCOVERED PATH...
+SW
+SW
+SW
+SW
+SW
+SW
+SW
+SW
+W
+Examine monitors
+S
+Examine booth
+Push the button
+Examine buttons
+* IN THIS GAME, IF THERE ARE TWO OR MORE KEYS, OR ANY OTHER SIMILAR OBJECTS,
+* IN THE ROOM AT THE SAME TIME AND YOU JUST REFER TO THE KEY, FOR EXAMPLE,
+* THE GAME WOULD RESPOND --> "Which one, the S)hiney or the R)usty key?"
+Push purple
+* IF INSTEAD OF "push purple" IT SAID "push button" THEN THE GAME WOULD HAVE
+* ASKED "Which one, the C)yan, the P)urple or the T)an button?"
+North
+Get goggles
+Press button
+N
+E
+E
+Press button
+E
+N
+Read sign
+* ALL WRITING BY THIS CIVILIZATION IS ACTUALLY ENGLISH WRITTEN BACKWARDS.
+Look out window
+Ex mural
+S
+S
+W
+Examine robot
+Slowly search robot
+Open panel
+take the card
+Examine it
+E
+E
+Examine slot
+Slide the plastic access card through the slot then walk east.
+Turn dial to 4
+* THE ALARM WILL KEEP RINGING UNTIL THE DIAL IS SET TO 4 (THE DIAL ONLY GOESFROM 1 TO 10).
+* IF THE DIAL IS NOT SET TO 4 THEN THE PLAYER WILL NOT BE ABLE TO READ THE  DATA IN THE "MONITOR STATION."
+Get suit
+Ex it
+Look at suit carefully
+N
+Ex screen
+S
+W
+S
+S
+Push button
+N
+Ex telescope
+Look into eyepiece
+Wear the goggles
+Look through the telescope
+S
+Press white button
+N
+W
+Ex screen
+Read data
+* THE DATA GIVES AN INDICATION TO THE STATE OF THE RED STAR.  THESE ARE
+* ACTUAL CONDITIONS OF A STAR BEFORE IT EXPLODES VIA A SUPERNOVA.
+E
+N
+N
+W
+W
+S
+Inventory
+Examine food
+* THE FOOD IS INSIDE THE SATCHEL
+Eat
+* HERE ARE FEW MORE COMMANDS YOU HAVEN'T SEEN YET...
+Score
+Commands
+* THE SAVE AND RESTORE COMMANDS WILL NOT BE DEMONSTRATED BY THIS DEMO.
+Press cyan button
+E
+Take off goggles
+Put grey disk into slot
+Drop all
+* THE DROID WOULD HAVE DISINTEGRATED THE PLAYER'S POSSESSIONS IF HE WAS     CARRYING THEM WHEN THE DROID HAD ENTERED.
+Stand on floor
+Get objects
+Wear the security suit
+Out
+* THERE IS A SECURITY ROBOT THAT PATROLS THE CORRIDORS AND WILL IMMOBILIZE
+* THE PLAYER IF HE/SHE IS NOT WEARING THE SECURITY SUIT.
+* DURING THIS DEMO, THOUGH, YOU MAY NOT SEE THIS ROBOT.
+* THIS DEMO WILL SKIP MUCH OF WHAT THE PLAYER CAN DO ON THIS PLANETSHIP AND
+* GO AHEAD WITH THE MAJOR STORY AND PUZZLES (THIS MEANS LESS POINTS, TOO.)
+Eat
+Drink
+NW
+W
+Ex picture
+N
+Read screen
+* THESE SCREENS SHOW THE STATUS OF THE REACTOR TIMING CRYSTALS.
+Press button.Read screen
+repeat
+repeat
+* HERE YOU CAN SEE THE BLUE CRYSTAL HAS MALFUNCTIONED, WHICH IS WHY THE     PLANETSHIP HAS NOT LEFT ORBIT YET.
+S
+SW
+Examine the picture
+Put card through slot
+W
+Ex tube
+Press button
+Look inside the cryogenic tube
+* THE TUBE IS JAMMED!
+Throw mug at the cryogenic tube
+Wait
+Wait
+Wait
+E
+NE
+N
+* THE SCIENTIST IS IN THE PROCESS OF FINDING OUT WHAT HAS GONE WRONG.
+* WE'LL GO WAIT FOR HIM BACK IN THE EMERGENCY OVERRIDE ROOM.
+S
+SW
+Slide access card through slot
+W
+Wait
+Z
+Z
+Scientist, what's wrong?
+Scientist, give me the green access card that you have?
+* HERE THE SCIENTIST IS WAITING FOR THE PLAYER TO OFFER, OR SHOW HIM THE    CLEAR CRYSTAL...
+Z
+Give the clear crystal to the scientist
+* THESE NEXT FEW QUESTIONS THAT THE DEMO WILL ASK THE SCIENTIST ARE IN HERE
+* TO PASS AWAY THE TIME WHILE THE SCIENTIST EXPLAINS YOUR MISSION, AND TO
+* SHOW YOU HOW THE PLAYER CAN CONVERSE WITH GAME CHARACTERS.
+Scientist, who are you?
+Scientist, can you tell me anything else about the crystal?
+Scientist, what is this huge ship for?
+Scientist, will you follow me?
+Scientist, let me have your wristband.
+Z
+* NOW IT'S TIME FOR THE PLAYER TO GO REPLACE THE CRYSTAL...
+E
+S
+SE
+* FIRST WE NEED THE GLOVES.
+S
+Ex shelves
+Get gloves
+Wear them
+* THE DEVICE IS A TOY ONLY, BY TURNING IT ON IT WILL MAKE ANY OF 20 SOUNDS!
+Turn on device
+Turn device on
+N
+E
+NE
+W
+* THIS ELEVATOR ACTS REALISTICALLY IN THE AMOUNT OF TIME IT TAKES TO MOVE.
+Type 451
+E
+* MOST OF THE FLOORS CONTAIN THE POPULATION IN CRYOGENIC TUBES.
+W
+Type 480
+E
+Read screen
+Ex sign
+S
+* IF YOU STAY IN THIS ROOM THE ROBOT WON'T MISS NEXT TIME!
+* UNLESS YOU DO SOMETHING LIKE THIS TO OCCUPY THE ROBOT...
+Throw satchel at robot!
+S
+S
+* NOW THAT THE PLAYER IS SHOT THERE IS ONLY ABOUT 15 MOVE BEFORE DEATH!!!
+S
+* IF YOU'RE NOT WEARING THE GOGGLES HERE THE FLOW OF ENERGY WOULD BE SO
+* BRIGHT THAT YOU COULDN'T OPEN YOUR EYES AND DO ANYTHING!
+Wear goggles
+SE
+Throw plastic card into energy flow!
+SW
+S
+* IF YOU GO SOUTH THE DOOR DOESN'T OPEN.
+* IF YOU GO WEST YOU WILL ENTER A CONFERENCE ROOM AND FIND A PIECE OF PAPER
+* ON THE TABLE THAT EXPLAINS THE MISSION A LITTLE BIT.
+* NOTE:  WHILE YOU ARE INJURED YOU MIGHT DROP AN OBJECT, AS LONG AS IT'S NOTTHE CLEAR CRYSTAL THERE'S NO PROBLEM.
+E
+Open panel
+get blue crystal
+* IF YOU WEREN'T WEARING THE GLOVES THEN THE CRYSTAL WOULD BE TOO HOT TO GET
+* THE NEXT MOVE IS THE LAST MOVE OF THE GAME!
+* MANY PUZZLES HAVE BEEN SKIPPED, AND MANY "NEAT" THINGS OVERLOOKED BY THIS BRIEF DEMONSTRATION...
+* NOTE THAT IF THE PLAYER DOESN'T BOTHER WITH REPLACING THE CRYSTAL, OR     COME DOWN TO THIS LEVEL AT ALL THEN
+* THE STAR WILL EXPLODE AND VAPORIZE THE PLANETSHIP.
+Put the clear crystal in the socket!
+*** Scott Miller  4206 Mayflower Dr.  Garland, TX  75043  214/278-6747 ***
+***END***
+

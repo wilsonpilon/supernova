@@ -1,0 +1,27 @@
+; generated - jump table of overlay TIME
+	.module ovl_head_TIME
+	.globl	_Init1
+	.globl	_Init2
+	.globl	_Init3
+	.globl	_Restore
+	.globl	_Save
+	.globl	_Time1
+	.globl	_Time2A
+	.globl	_Time2B
+	.globl	_Time2C
+	.globl	_Time2D
+	.globl	_Title
+	.globl	_Won
+	.area	_CODE
+	jp	_Init1
+	jp	_Init2
+	jp	_Init3
+	jp	_Restore
+	jp	_Save
+	jp	_Time1
+	jp	_Time2A
+	jp	_Time2B
+	jp	_Time2C
+	jp	_Time2D
+	jp	_Title
+	jp	_Won

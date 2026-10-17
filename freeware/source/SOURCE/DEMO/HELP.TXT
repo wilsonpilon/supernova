@@ -1,0 +1,22 @@
+                         ___________________________
+                        |                           |
+                        |  :::::::::::::::::::::::  |
+                        |  :: S U P E R N O V A ::  |
+                        |  :::::::::::::::::::::::  |
+                        |___________________________|
+
+
+NOTE:  To run  Supernova  you must  boot  your  computer  with an  "installed"
+       disk.  To  find  out  how to  install  a disk  read  the  help  screens
+       that are on the  non-demo  version  of  Supernova.   Briefly,  you must
+       boot the  computer  with a  disk  that has  CONFIG.SYS  on it.   And in
+       the CONFIG.SYS  file the line  "FILES=16" must be present.  The INSTALL
+       program  (included on the  non-demo disk)  will make a "boot" disk  for
+       you.
+
+If you want a script to Supernova get a listing of the DEMO.TXT file.
+
+Scott Miller
+4206 Mayflower Dr.
+Garland, Texas 75043  (214) 278-6747
+

@@ -1,0 +1,77 @@
+// Runtime test: window system, deferred scrolling, colours, blink, keys, sound
+#include "../game/nova.h"
+
+static void Frame(void)
+{
+	u8 x;
+	TextColor(7); TextBackground(1);
+	for (x = 1; x <= 80; x++) { Gotoxy(x, 1); WrC((char)205); Gotoxy(x, 24); WrC((char)205); }
+	Gotoxy(80, 24); WrC((char)190); Gotoxy(1, 24); WrC((char)212);
+	Gotoxy(1, 4); InsLine();
+	for (x = 2; x <= 24; x++) { Gotoxy(1, x); WrC((char)179); Gotoxy(80, x); WrC((char)179); }
+	Gotoxy(1, 4); WrC((char)198);
+	for (x = 2; x <= 79; x++) { Gotoxy(x, 4); WrC((char)205); }
+	WrC((char)181);
+	Gotoxy(1, 1); WrC((char)213); Gotoxy(80, 1); WrC((char)184);
+	TextBackground(4); TextColor(14); Gotoxy(2, 2);
+	for (x = 1; x <= 78; x++) WrC(' ');
+	Gotoxy(2, 2); Wr("Move");
+	Gotoxy(68, 2); Wr("Score");
+	TextBackground(7); Gotoxy(2, 3);
+	for (x = 1; x <= 78; x++) WrC(' ');
+	TextBackground(5); TextColor(15);
+	Gotoxy(2, 3); Wr("Player Condition:");
+	TextColor(31); TextBackground(7); Gotoxy(33, 3); Wr("Hungry");
+	TextBackground(0);
+}
+
+static u16 Jf(void) { return *(volatile u16*)0xFC9E; }
+
+void main()
+{
+	char buf[1400];
+	u16 k, t0, tSingle, tBatch;
+	u8 i;
+	ScreenBegin();
+	Randomize();
+	TextColor(7); TextBackground(0);
+	Window(1, 1, 80, 25); ClrScr();
+	Frame();
+	Window(2, 5, 79, 24);
+
+	// 1. print room texts; the window scrolls (deferred)
+	t0 = Jf();
+	for (i = 0; i < 6; i++)
+	{
+		TextColor(9); Wr("Room "); WrNum(i); Wln();
+		TextColor(11);
+		ReadText(i * 3 + 1, buf); Wr(buf); Wln();
+	}
+	TextColor(10); Wr("A blinking word: "); TextColor(28); Wr("BLINK"); TextColor(11); Wr(" and a normal one."); Wln();
+	tBatch = Jf() - t0;
+	TextColor(14); Wr("Frames spent drawing + deferred scrolling: "); WrNum(tBatch); Wln();
+	TextColor(28); WrC((char)175); Wln(); Wr("prompt above is blinking; press keys (ESC to continue), their codes are shown"); Wln();
+	Gotoxy(3, 19);
+	CursorShape(1);
+	for (;;)
+	{
+		k = GetKey();
+		TextColor(15);
+		WrNum((i16)(k >> 8)); Wr("/"); WrNum((i16)(k & 255)); Wr(" ");
+		if ((k & 255) == 27) break;
+	}
+	CursorShape(3);
+
+	// 2. one line at a time, each followed by a key wait (flushes every time)
+	Wln(); TextColor(7);
+	t0 = Jf();
+	for (i = 0; i < 10; i++) { Wr("single line "); WrNum(i); Wln(); ScreenFlush(); }
+	tSingle = Jf() - t0;
+	TextColor(14); Wr("10 lines, flushed each: "); WrNum(tSingle); Wln();
+	Wr("Press a key"); GetKey();
+
+	// 3. sound
+	Sound(440); Delay(300); Sound(880); Delay(300); NoSound();
+	Wln(); Wr("done"); GetKey();
+	Halt();
+}
