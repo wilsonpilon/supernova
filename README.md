@@ -84,3 +84,9 @@ behaviour while translating and for fuzzing.
 * [MSXgl](https://github.com/aoineko-fr/MSXgl) by Guillaume "Aoineko" Blanchard; the 6x8 font in `FONT.BIN` is
   derived from its `font_bios_latin` data (CC BY-SA).
 * SDCC, openMSX.
+
+## Status (v0.1.0)
+
+Playable from the start; verified in openMSX: title, parser, time events, colours/blinking, scrolling, save/restore,
+quit. A turn takes about 1 s. Not yet verified: function/cursor keys in play, sound, death and ending screens,
+long play-throughs, real hardware. Releases: see the GitHub *Releases* page.

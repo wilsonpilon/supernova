@@ -1,0 +1,158 @@
+Supernova Walkthrough  (Apogee Software)
+By Ramon Bartschat (bartschat@goldnet.sk)
+
+I will only describe the shortest way. 
+And I will omit many details. There are many more rooms and objects you should explore on your own.
+
+In between the described steps you will have to eat, drink and sleep.
+-Sleeping can be done in your hotel room bed or spaceship bed.
+-You can drink your beer and then refill the mug at a water tap at either your room or your spaceships bathroom. You can also drink directly from the water tap.
+-You can only eat the food from the old storehouse; careful it is for a limited amount of times.
+
+START
+- Buy a beer, sit at the middle table, wait for the aliens to sit down and then "listen carefully" to all they have to say, write down the coordinates they mention.
+(Notice that the holster in your room is of no use in the game, also the rusty key is only needed to open your hotel room, nothing else)
+- Go outside to the old storehouse and get the satchel with food (you don't need the satchel, just the food)
+
+
+(SPECIAL CHEAT
+- Go W on the Dusty Road until you "notice something unusual" then type ENTER or IN
+This will take you directly to the ice planet with all the items you need and you will not be hungry, thirsty or sleepy)
+
+
+WITHOUT CHEAT
+- Go to your spaceship
+- Go to the cockpit, place the cushion on the seat and sit down.
+- To make it past security you have to provide the same "identity code name" you defined at beginning the game
+- Fly to the coordinates you overheard from the aliens in the bar (R2/20-8-23 D2/VEGA)
+- Initiate the countdown and rush for your cryo tube
+- Keep trying to land (pushing the button) until you do so.
+- Get out of your spaceship and head for the pyramid. Careful to "jump stream" to avoid the acid stream.
+- When you get stung by the animal return to your spaceships laboratory and get serum number 6 (Poisons/Venoms). Put the empty mug in the niche for the serum. The serum dispenser will work only 2 times but you will not need it any more, only this one time.
+- Get the cushion you will need it in the pyramid
+- Return now all the way to the pyramid.
+- Open the mouth of the dog, take the jewel and open the pyramid door with it.
+- Get down to the skeleton room; get the grey disk (you don't need the skull)
+- Go to the mini-pyramid room; touch the pyramid to open the secret passage. 
+- Enter the secret room and get the dusty ball, clean the ball, throw the ball at the wall to extract the shiny key (Should the secret door close then "turn podium" to open it again or just leave the room before it closes)
+- Go to the mirror room. In the mirror room go NW-S-SE-E-NE-W-SE and then DOWN. (You might have to try several times until you don't bump into a wall any more)
+- Drop all you have except the cushion and the shiny key (You will need to carry a heavy rod later)
+- Head for the other mini-pyramid room
+- Put the cushion on the floor, put the shiny key in the keyhole, catch the crystal (wait a little for a secret room to open)
+- Get back to the round room and take the rod
+- CRAWL NORTH, JUMP GAP, PUT ROD IN RECESS
+- Go and take all the items you left before. 
+- Go back through the mirror room NW-E-SE-S-NW-SE and UP  (again you might have to try several times to go in a certain direction until you don't bump into a wall)
+- Go back to where the big climbable tree is. A new way heading SW will be available now.
+- Follow the SW track and enter the Antenna Building  (From now on, when you find things to read, read them backwards - SDRAWKCAB)
+- Go to the transport booth and push the button
+- Go find the robot in the Reactor Control room, "open panel" and get the plastic card
+- Open the closed door with the plastic card, enter and get the suit
+- Go to the transport boot and push the purple button to get the goggles, push the cyan button to go to the ice planet. Use the tan button to get back to the planet with your spaceship (to refill water or to sleep for example)
+
+
+ON THE ICE PLANET (in reality a giant planet size spaceship)
+- Enter the building and put the grey disk in the slot
+- DROP ALL! If not you will loose all when the robot comes. You will find the grey disk here again, you don't need it.
+- Wait for the robot to zap you and then get all your possessions again.
+- Wear the suit and go out to the circular corridor
+- Go to the Transmission room and turn off the alarm (this is not a necessary step though)
+- Go to the Maintenance room, find and get the gloves (you don't need the "device" found there)
+- Go to the closed door -the one with the picture of a cryogenic tube- and open it with the plastic card
+- Enter to the Emergency Override room and Hit the cryo tube with the mug to free the scientist
+- Either wait for the scientist here or follow him (you will end up in the same room again anyhow; following him gives you a clue where to check which crystal is damaged)
+- Give him the clear crystal
+- Wait to hear all his instructions
+- Head for the elevator and go to the level the scientist mentioned you (480)
+- Now is the time to wear the goggles (to cross the catwalk) and the gloves (to touch the crystals)
+- Exit the elevator and head for the Reactor Regulator room where the panel with the crystals is 
+- The robot in Security Tunnel Number 3 will shoot you, you cannot avoid it.
+- Open the panel and get the blue crystal
+- Place your clear crystal in the socket
+
+
+That is about it.
+Remember, there are many more rooms and objects you should investigate.
+
+18.05.2000 by Ramon Bartschat  (bartschat@goldnet.sk)
+
+
+
+APPENDIX
+
+---------------------------------------------------
+Map of complex at planet closest to red star
+(view in fixed width font like courier)
+
+[1st Floor]
+
+  N           Planet surface 
+W   E
+  S               +-d-+
+                  |   |Lobby
+  Waiting +---+---+-d-+---+ Computer
+     Room |   d(C)d   |   | Station
+          +-d-+---+   +-d-+                  [2nd Floor]
+Transport |   |(R)    d   | Communications 
+    Booth +---+---+   +---+ (suit)           +---+
+      Monitor |       |                      |   | Observatory
+      Station +---+-d-+                      +-d-+
+                  |   | Elevator             |   | Elevator 
+                  +---+                      +---+
+
+(C) = Decontamination
+(R) = Reactor Control
+      (card [inside robot panel])
+
+d = Door
+
+---------------------------------------------------
+Map of complex on ice planet
+(view in fixed width font like courier)
+
+  N               +---+---+
+W   E             |Reactor|
+  S               +-d-+-d-+
+                  |       |
+Emergency +---+---/---+---\---+---+ Inspection Lobby
+ Override D   d   |XXXXXXX|   d   | (grey disk)
+          +---+   +XXX+---+   +---+
+    Clima |   d   |XXX|(E)d   d   | Station Control
+  Control +---+---\---+---/---+---+
+                  |       | (E) = Elevator
+                  +-d-+-d-+
+      Maintenance |   |   | Transmission Room
+      (gloves)    +---+---+
+
+d = Door
+D = Door that can not be opened
+X = Nothing / No Access
+
+
+---------------------------------------------------
+Floor 480 Map
+(view in fixed width font like courier)
+
+  N                   +---+---+
+W   E        Elevator |   d   | Identity Boot
+  S                   +---+-d-+
+                          |   | Security Tunnel #1
+                          +-d-+ 
+                          |   | Security Tunnel #2
+                          +-d-+
+                          |   | Security Tunnel #3
+                          +-d-+
+            North Catwalk |   | 
+                      +---/---\---+
+         East Catwalk |   |XXX|   | West Catwalk
+                      +---\---/---+
+            South Catwalk |   | 
+                      +---+-d-+---+
+      Conference Room |   d   d   | Reactor Regulators 
+      (paper)         +---+-D-+---+ (panel with crystals)
+
+
+d = Door
+D = Door that can not be opened
+X = Nothing / No Access
+
